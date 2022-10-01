@@ -1,0 +1,9 @@
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+
+
+h1 {
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #feca03;
+    -webkit-text-stroke: 2px #1955c7; /* width and color */
+}
+
